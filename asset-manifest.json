@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cartoon-characters/static/css/main.db5d8bcb.css",
+    "main.js": "/cartoon-characters/static/js/main.3cd5fb67.js",
+    "index.html": "/cartoon-characters/index.html",
+    "main.db5d8bcb.css.map": "/cartoon-characters/static/css/main.db5d8bcb.css.map",
+    "main.3cd5fb67.js.map": "/cartoon-characters/static/js/main.3cd5fb67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db5d8bcb.css",
+    "static/js/main.3cd5fb67.js"
+  ]
+}
